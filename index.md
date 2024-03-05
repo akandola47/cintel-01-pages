@@ -2,6 +2,7 @@
 
 ## Arshpreet Kandola
 
+theme: jekyll-theme-TIME-MACHINE
 
 My first website using Markdown and GitHub Pages.
 
